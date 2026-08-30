@@ -1,5 +1,5 @@
-const WHATSAPP_NUMBER = '989123456789';
-const TELEGRAM_USER = 'AriaHavale';   
+const WHATSAPP_NUMBER = '989397521586';
+const TELEGRAM_USER = 'Alijsh313';
 
 const CURRENCIES = [
   { code: 'EUR', name: 'یورو', flag: '🇪🇺' },
